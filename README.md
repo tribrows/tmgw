@@ -10,7 +10,7 @@
 
 
 
-GITHUB live :: https://tribrows.github.io/TMGW/
+GITHUB live :: https://tribrows.github.io/tmgw
 
 
 Version Branches for Live Testing::
